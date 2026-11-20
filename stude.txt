@@ -2,3 +2,4 @@
 102, Rahul, Computer Engineering
 103, Meera, Electronics
 104, Saaara, Automation
+105, pari, Computer
